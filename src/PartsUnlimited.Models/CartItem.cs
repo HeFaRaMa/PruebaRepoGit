@@ -9,6 +9,8 @@ namespace PartsUnlimited.Models
     //Primer Mundo HFRM
     //Segundo Hola Mundo HFRM.
     //Cuarto Hola Mundo HFRM..
+
+    // Sexto cambio en la rama Release (Prueba).
     public class CartItem
     {
         [Key]
